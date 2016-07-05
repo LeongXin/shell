@@ -1,7 +1,7 @@
 #! bin/bash
 
 LOG_PATH='/server/tomcat/logs/'
-LOG_PRE='dataAnalysis.log.'
+LOG_PRE='data.log.'
 LOG_SUF='.gz'
 
 read -p "Start date(2016-01-01): " startDate
