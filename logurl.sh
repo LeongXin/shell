@@ -1,8 +1,8 @@
 #! bin/bash
 
 LOG_PATH='/server/tomcat/logs/'
-DATA_PRE='dataAnalysis.log.'
-BOOK_PRE='booksystem.log.'
+DATA_PRE='data.log.'
+BOOK_PRE='system.log.'
 LOG_SUF='.gz'
 
 read -p "History log day: " num
